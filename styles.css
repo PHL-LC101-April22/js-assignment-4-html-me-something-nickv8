@@ -1,1 +1,50 @@
-/* Write your CSS here! */
+/* Write your CSS here!
+body {
+    background: linear-gradient(black 10% , rgb(93, 2, 93) 70%, rgb(170, 115, 13))
+}
+
+.title {
+    text-align: center;
+    color: orange;
+}
+
+.opening {
+    text-align: center;
+    color:rgb(228, 108, 10)
+}
+
+.idea_paragraph {
+    text-align: center;
+    color:rgb(228, 108, 10)
+}
+
+.pictures_container {
+    
+    display: flex;
+    align-content: space-around;
+    justify-content: space-around;
+   
+    
+}
+
+#grim_reaper {
+
+    height: 200px;
+    width: 150px;
+   
+    
+}
+
+#chickenwire_ghost {
+
+    width: 300px;
+    height: 200px;
+    
+}
+
+#tombstones {
+
+    width: 200px;
+    height: 200px;
+   
+} */
