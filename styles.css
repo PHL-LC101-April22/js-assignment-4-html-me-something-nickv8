@@ -52,7 +52,7 @@ body {
    
 }
 
-.subcategories {
+#subcategories {
 
     text-align: center;
     color: rgb(228, 108, 10);
@@ -105,5 +105,38 @@ body {
     padding: 20px;
     height: 200px;
     width: 200px;
+}
+
+a {
+
+    color: yellow
+}
+
+#ghostPics {
+
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+
+}
+
+.ghostPic {
+
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+footer {
+
+    text-align: center;
+    color: rgb(228, 108, 10);
+
 }
 
