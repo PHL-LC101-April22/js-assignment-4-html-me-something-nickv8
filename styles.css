@@ -1,6 +1,16 @@
 /* Write your CSS here! */
 body {
-    background: linear-gradient(black 10% , rgb(93, 2, 93), black)
+    background: linear-gradient(black 10% , rgb(93, 2, 93), black);
+    margin: 8px;
+    display: block
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
 }
 
 .title {
