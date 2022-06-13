@@ -2,11 +2,15 @@
 body {
     background: linear-gradient(black 10% , rgb(93, 2, 93), black);
     margin: 8px;
-    display: block
+    display: block;
 }
 
 #mainHeading {
     color: red;
+}
+
+#p1 {
+    color:rgb(228, 108, 10);
 }
 
 .funParagraph {
