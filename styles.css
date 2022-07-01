@@ -8,6 +8,7 @@ body {
 
 #mainHeading {
     color: red;
+    text-align: center;
 }
 
 #p1 {
@@ -16,11 +17,6 @@ body {
 
 .funParagraph {
     color: green;
-}
-
-.title {
-    text-align: center;
-    color: orange;
 }
 
 .opening {
