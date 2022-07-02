@@ -1,1 +1,153 @@
 /* Write your CSS here! */
+body {
+    background: linear-gradient(black 10% , rgb(93, 2, 93), black);
+    margin: 8px;
+    display: block;
+   
+}
+
+#mainHeading {
+    color: red;
+    /* text-align: center; */
+}
+
+#p1 {
+    color:rgb(228, 108, 10);
+}
+
+.funParagraph {
+    color: green;
+}
+
+.opening {
+    text-align: center;
+    color:rgb(228, 108, 10);
+}
+
+.idea_paragraph {
+    text-align: center;
+    color:rgb(228, 108, 10);
+}
+
+.pictures_container {
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+   
+    
+}
+
+#grim_reaper {
+
+    padding: 20px;
+    height: 300px;
+    width: 150px;
+
+}
+
+#chickenwire_ghost {
+
+    padding: 20px;
+    width: auto;
+    height: auto;
+    
+}
+
+#tombstones {
+
+    padding: 20px;
+    width: auto;
+    height: auto;
+   
+}
+
+#subcategories {
+
+    text-align: center;
+    color: rgb(228, 108, 10);
+}
+
+#tombstonePic {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+#tombstonePic2 {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+#tombstonePic3 {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+.engravings {
+
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+
+}
+
+.tombstonePic4 {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+a {
+
+    color: yellow
+}
+
+#ghostPics {
+
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+
+}
+
+.ghostPic {
+
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+footer {
+
+    text-align: center;
+    color: rgb(228, 108, 10);
+
+}
+
